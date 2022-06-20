@@ -1,6 +1,6 @@
 # Hey, I'm Asante <img src="https://raw.githubusercontent.com/Asante-ntiro/Asante-ntiro/master/static/gifs/Hi.gif" width="30px">
 
-<a href="https://www.linkedin.com/in/simbo-asante-ntiro-039a912b/">
+<a href="https://www.linkedin.com/in/asante-ntiro/">
   <img align="left" alt=" Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/Asante-ntiro">
